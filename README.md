@@ -3,7 +3,7 @@
 Professional landing page for **Anime Instagram Automation Bot**.
 
 ## 🌐 Live Website
-[Your Domain Here] (Update after hosting)
+[AnimeReel AI](http://animereel-ai.gt.tc/)
 
 ## Features
 - Dark anime-themed design with space animations
